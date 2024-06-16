@@ -8,8 +8,7 @@ class Const:
     TAU2 = [8, 21]
     LAYER_NUM = 200
     LAYER_SIZE = [50, 350]  # [2, 70]
-    SFC_LEN = [2, 7]
-    SFC_DELAY = [500, 2000]
+    MS_DELAY = [500, 2000]
     ALPHA_RANGE = [0.8, 1.05]
     LAMBDA_RANGE = [1, 5]
     # LINK_BW = [10000, 20000]

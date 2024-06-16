@@ -7,7 +7,7 @@ import heapq
 import random
 
 from constants import Const
-from sfc import LayerDownload
+from microservice import LayerDownload
 from q_learn import QLearn
 from random import shuffle
 from popularity_learn import PLearn
